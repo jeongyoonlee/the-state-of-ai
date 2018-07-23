@@ -37,9 +37,9 @@ This repository compiles latest discussions and resources around the state of ar
   * Tech giants spent $20B ~ $30B on AI in 2016: 90% on R&D + 10% on AI acquisitions
   * VC and PE financing, grants and seed investments invested $6B ~$9B on AI
   * Outside of tech sector, only 20% currently use any AI-related technology at scale
+  * A successful program requires: identify the business case, set up the right data ecosystem, build or buy appropriate AI tools, and adapt workflow processes, capabilities, and culture. Leadership from the top, management and technical capabilities, and seamless data access are key enablers.
 * AI promises to boost profits and transform industries
 * Businesses, developers and governments need to act now to realize AI's full potential
-* A successful program requires: identify the business case, set up the right data ecosystem, build or buy appropriate AI tools, and adapt workflow processes, capabilities, and culture. Leadership from the top, management and technical capabilities, and seamless data access are key enablers.
 * Case studies: AI's potential to improve forecsting and sourcing, optimize and automate operations, develop targeted marketing and pricing and enhance the user experience
   * Retail
   * Electric utility
@@ -69,3 +69,12 @@ This repository compiles latest discussions and resources around the state of ar
 
 ### Natural Language Process
 
+### Ethics
+
+#### [The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk) Keynote by Kate Crawford at NIPS 2017
+
+#### [AI Now 2017 Report](https://ainowinstitute.org/AI_Now_2017_Report.pdf) by [AI Now Institute](https://ainowinstitute.org)
+* Labor and automation
+* Bias and inclusion
+* Rights and liberties
+* Ethics and governance
