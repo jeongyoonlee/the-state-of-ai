@@ -27,6 +27,8 @@ This repository compiles latest discussions and resources around the state of ar
   * GPT: steam engin, electricity, computer, etc.
   * Technology deployment is limited by how fast workers can train for it. Needs investment on education.
 
+#### [The Frontiers of Machine Learning and AI](https://www.oreilly.com/ideas/the-frontiers-of-machine-learning-and-ai) by Zoubin Ghahramani at Oreilly AI Conference in NY (2018)
+
 ### Reports
 
 #### [State of AI 2018](https://www.youtube.com/watch?time_continue=11&v=ja6TsWNDXVg) by CB Insights (2018)
@@ -63,12 +65,58 @@ This repository compiles latest discussions and resources around the state of ar
 
 ### Healthcare
 
-#### [2018 O'Reilly AI Keynote](https://www.youtube.com/watch?v=5Z5aZK2C3ew) by Thomas Reardon (2018)
+#### [Neural Interfaces: Connecting humans and AI](https://www.youtube.com/watch?v=5Z5aZK2C3ew) by Thomas Reardon at Oreilly's AI Conference in NY (2018)
+
+### Social Good
+
+#### [Towards Globally Beneficial AI](https://www.facebook.com/ijcaiecai18/videos/2192356910905283/UzpfSTEwMDAwMDc3MDUxMDg5OToyMDAxNDI0MTA5ODkxNjg5/) by Stefano Ermon at IJCAI (2018)
+* Recent progress in AI: Computer vision, speech recognition, game playing, machine translation, theorem proving, question answering, etc.
+* 17 sustainable development goals
+* Large scale economic modeling: Jean, Ermon et al. Science 2016
+  * Geo statistics --> Deep Gaussian process
+  * Semi-supervised learning
+  * Predicts crop productivity, infrastructure quality, population density, crop disease, etc.
+* Learnging with limited labeled data/supervision
+  * Learning from constraints (AAAI-17 best paper)
+  * Generative models
+  * Semi-supervised learning and domain adaptation
+* Uncertainty quantification: Recalibration (AAAI-17, ICML-18)
 
 
 ## BY COMPANIES
 
 ### Microsoft
+
+#### Healthcare
+* [Democratizing AI in Healthcare](http://www.democratizing-ai-in-health.com/)
+* [Healthcare NExT](http://www.businessinsider.com/peter-lee-microsoft-research-healthcare-next-interview-2018-2): Fusing research, AI and industry expertise through partners
+* [InnerEye](https://www.microsoft.com/en-us/research/project/medical-image-analysis/)
+  * Automatic 3D segmentation of tumor and healthy cells
+  * Better understanding of cancer response
+  * Human + machine - AI assistance for planning radiotherapy treatments
+  * Can be deployed as intelligent Azure services
+  * Demo on automatic brain tumor segmentation at RSNA-2017
+* [EmpowerMD](https://www.microsoft.com/en-us/research/project/empowermd/)
+  * Intelligent Scribe
+  * Transcription, entity, intent, synthesis phrases. Important phrases from patient speech.
+  * Rancked by confidence level
+  * Collaboration with UPMC (University of Pittsburgh Medical Center)
+* [Microsoft Genomics Service](https://azure.microsoft.com/en-us/services/genomics/)
+  * St. Jude Children's Research Hospital
+  * Cloud implentation of BWA and Genome Analysis Toolkit (GATK)
+* [Health Bot](https://www.microsoft.com/en-us/research/project/health-bot/)
+  * Access health data with conversational intelligence
+  * Insurers uses bots to give customers an easy way to look up the status of a claim and ask questions about benefits
+  * Providers uses bots to triage patient issues with symptom checker, help patients find care, and look up nearby doctors.
+  * Partners: Premera Blue Cross, Aurora Healthcare, Health Navigator, UPMC
+* [Enable Group at MSR](https://www.microsoft.com/en-us/research/group/enable/)
+  * [Eye-controlled user interface in Windows 10](https://support.microsoft.com/en-us/help/4043921/windows-10-get-started-eye-control)
+  * [Soundscape](https://www.microsoft.com/en-us/research/product/soundscape/): Sound-based user interface 
+* [Ability Group at MSR](https://www.microsoft.com/en-us/research/group/ability/): R&D innovative technologies that extend the capabilities of and enhance quality of life for people with disabilities
+* [Lung cancer prediction with search queries](https://blogs.microsoft.com/ai/microsoft-researchers-detect-lung-cancer-risks-web-search-logs/)
+* [Project Hanover](https://news.microsoft.com/stories/computingcancer/): For machine reading, cancer decision support, chronic disease management. Collaboration with Knight Cancer Institute.
+* Heart disease detection: Collaboration with India's Apollo Hospitals
+
 
 ### Google
 
@@ -82,6 +130,10 @@ This repository compiles latest discussions and resources around the state of ar
 ### Computer Vision
 
 ### Natural Language Process
+
+#### Machine Reading Comprehension (MRC)
+
+* [ReasoNet + R-NET](https://www.ailab.microsoft.com/experiments/ef90706b-e822-4686-bbc4-94fd0bca5fc5) by Microsoft Research
 
 ### Ethics
 
