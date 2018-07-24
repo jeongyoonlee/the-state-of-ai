@@ -4,7 +4,9 @@ This repository compiles latest discussions and resources around the state of ar
 
 ## GENERAL
 
-### [The State of AI](https://www.youtube.com/watch?v=NKpuX_yzdYs) by Andrew Ng at [EmTech](https://events.technologyreview.com/emtech/18/)
+### Keynotes
+
+#### [The State of AI](https://www.youtube.com/watch?v=NKpuX_yzdYs) by Andrew Ng at [EmTech](https://events.technologyreview.com/emtech/18/) (2017)
 * Supervised learning: A (an image) --> B (cat or dog)
 * Reinforcement learning: Even greater hunger for data and computation
 * Data asset is more important than algorithms.
@@ -17,7 +19,17 @@ This repository compiles latest discussions and resources around the state of ar
   * More consistent management of AI talents
   * Common standards and company-wide platform
 
-### [State of AI 2018](https://www.youtube.com/watch?time_continue=11&v=ja6TsWNDXVg) by CB Insights
+#### [The Power and Limits of AI: Present and Future](https://www.youtube.com/watch?v=uEZ-V5CXNI8&t=1258s) by Yann LeCun at Abu Dhabi Ideas Weekend (2018)
+* AI: Started in 50s. Had success with expert systems in 80s. Revived with the emergence of deep learning
+* Deep learning is an internal structure of machine in machine learning
+* Authentic human experience > material goods
+* AI is a general purpose technology (GPT)
+  * GPT: steam engin, electricity, computer, etc.
+  * Technology deployment is limited by how fast workers can train for it. Needs investment on education.
+
+### Reports
+
+#### [State of AI 2018](https://www.youtube.com/watch?time_continue=11&v=ja6TsWNDXVg) by CB Insights (2018)
 * Manufacturing job: Increasing number of jobs. The number and nature of jobs will never be the same.
 * White color job: Expert-Automation & Augmentation Software (EAAS). AI-enhanced productivity changes industries such as law, media, wealth management, etc.
   * NLP startups in legal industry such as ROSS, Legal Sifter, Casetext, LawGeex. AI can summarize thousands of pages of legal documents within minutes.
@@ -32,7 +44,7 @@ This repository compiles latest discussions and resources around the state of ar
   * Fueled by medical imaging and diagnostic companies: Arterys that analyzes cardiac images raised $42M at valuation at $82M
   * Strategic partnerships: NVidia + GE, DeepMind + NHS, AliHealth + AstraZeneca
 
-### [Artificial Intelligence - The Next Digital Frontier?](https://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/How%20artificial%20intelligence%20can%20deliver%20real%20value%20to%20companies/MGI-Artificial-Intelligence-Discussion-paper.ashx) by McKinsey Global Institute in June 2017
+#### [Artificial Intelligence - The Next Digital Frontier?](https://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/How%20artificial%20intelligence%20can%20deliver%20real%20value%20to%20companies/MGI-Artificial-Intelligence-Discussion-paper.ashx) by McKinsey Global Institute (2017)
 * AI is getting ready for business, but are businesses ready for AI?
   * Tech giants spent $20B ~ $30B on AI in 2016: 90% on R&D + 10% on AI acquisitions
   * VC and PE financing, grants and seed investments invested $6B ~$9B on AI
@@ -50,6 +62,8 @@ This repository compiles latest discussions and resources around the state of ar
 ## BY INDUSTRIES
 
 ### Healthcare
+
+#### [2018 O'Reilly AI Keynote](https://www.youtube.com/watch?v=5Z5aZK2C3ew) by Thomas Reardon (2018)
 
 
 ## BY COMPANIES
@@ -71,9 +85,9 @@ This repository compiles latest discussions and resources around the state of ar
 
 ### Ethics
 
-#### [The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk) Keynote by Kate Crawford at NIPS 2017
+#### [The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk) Keynote by Kate Crawford at NIPS (2017)
 
-#### [AI Now 2017 Report](https://ainowinstitute.org/AI_Now_2017_Report.pdf) by [AI Now Institute](https://ainowinstitute.org)
+#### [AI Now 2017 Report](https://ainowinstitute.org/AI_Now_2017_Report.pdf) by [AI Now Institute](https://ainowinstitute.org) (2017)
 * Labor and automation
 * Bias and inclusion
 * Rights and liberties
