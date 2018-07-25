@@ -144,3 +144,11 @@ This repository compiles latest discussions and resources around the state of ar
 * Bias and inclusion
 * Rights and liberties
 * Ethics and governance
+
+## REFERENCES
+
+### AI General
+* [Awesome Artificial Intelligence](https://github.com/hades217/awesome-ai) compiled by Lightman Wang
+
+### Research
+* [Deep Learning Papers by Task](https://github.com/sbrugman/deep-learning-papers) compiled by Simon Brugman
