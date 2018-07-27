@@ -129,11 +129,26 @@ This repository compiles latest discussions and resources around the state of ar
 
 ### Computer Vision
 
+#### [Dermatologist-level Classfication of Skin Cancer with Deep Neural Networks](https://www.nature.com/articles/nature21056) by Esteva et al. on Nature (2017)
+* A CNN model was trained with 129K clinical images with 2K+ diseases.
+* The model performed on par with 21 dermatologists on two binary classification tasks: keratinocyte carcinomas (the most common cancer) vs. benign seborrheic keratoses and malignat melanomas (the deadliest skin cancer) vs. benign nevi.
+
+#### [AI Beats Human Doctors in Neuroimaging Recognition Contest](http://www.xinhuanet.com/english/2018-06/30/c_137292451.htm) by Xinhua (2018)
+* The BioMind AI system defeated physicians in two rounds of competitions in diagnosing brain tumors and predicting hematoma expansion in Beijing
+* BioMind made correct diagnoses in 87% of 225 cases in ~15 minutes
+* A team of 15 senior doctors achieved 66% accuracy
+* BioMind was trained with 10K+ images of nervous system-related diseases archived over the past 10 years by Tiantan Hospital
+
 ### Natural Language Process
 
 #### Machine Reading Comprehension (MRC)
 
 * [ReasoNet + R-NET](https://www.ailab.microsoft.com/experiments/ef90706b-e822-4686-bbc4-94fd0bca5fc5) by Microsoft Research
+
+### Reinforcement Learning
+
+#### [Mastering the Game of Go with Deep Neural Networks and Tree Search](https://www.nature.com/articles/nature16961) by Silver et al. on Nature (2016)
+* 
 
 ### Ethics
 
