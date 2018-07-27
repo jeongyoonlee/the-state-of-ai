@@ -145,7 +145,7 @@ This repository compiles latest discussions and resources around the state of ar
 * Rights and liberties
 * Ethics and governance
 
-## CRITICISMS (a.k.a. HYPE BUSTERS)
+## CRITICISMS / FAILURES
 
 #### [Why Everyone Is Hating on IBM Watson](https://gizmodo.com/why-everyone-is-hating-on-watson-including-the-people-w-1797510888) by Jennings Brown on Gizmodo (2017)
 
