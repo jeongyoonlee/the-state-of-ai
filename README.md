@@ -145,6 +145,22 @@ This repository compiles latest discussions and resources around the state of ar
 * Rights and liberties
 * Ethics and governance
 
+## CRITICISMS (a.k.a. HYPE BUSTERS)
+
+#### [Why Everyone Is Hating on IBM Watson](https://gizmodo.com/why-everyone-is-hating-on-watson-including-the-people-w-1797510888) by Jennings Brown at Gizmodo (2017)
+
+#### [Google's AutoML: Cutting Through the Hype](http://www.fast.ai/2018/07/23/auto-ml-3/) by Rachel Thomas at fast.ai (2018)
+
+#### [Has AI Surpassed Humans at Translation? Not Even Close!](https://www.skynettoday.com/editorials/state_of_nmt) by Sharon Zhou at Skynet Today (2018)
+
+#### [Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631) by Gary Marcus at arXiv.org (2018)
+
+#### [Innateness, AlphaZero, and Artificial Intelligence](https://arxiv.org/abs/1801.05667) by Gary Marcus at arXiv.org (2018)
+
+#### [AI Winter is Well on Its Way](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/) by Filip Piekniewski (2018)
+
+#### [Rebooting AI - Postulates](https://blog.piekniewski.info/2018/06/20/rebooting-ai-postulates/) by Filip Pienkniewski (2018)
+
 ## REFERENCES
 
 ### AI General
